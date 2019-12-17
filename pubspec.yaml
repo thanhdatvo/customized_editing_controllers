@@ -1,0 +1,16 @@
+name: customized_editing_controllers
+description: This library contains customized editing controllers.
+version: 1.0.0
+author: Dat Thanh Vo <datvt9312@gmail.com>
+homepage: https://github.com/datvt9312/customized_editing_controllers
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  analyzer: ">=0.34.0 <0.39.2+1"
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test: ^1.9.4
